@@ -40,3 +40,18 @@ This can interrupt your work and:
 6. Open a Google Colab notebook → click Start to keep it alive.
 
 ---
+# Screenshots
+
+**1️⃣ Extension Popup:**  
+Shows the simple Start/Stop interface to control keep-alive.
+
+<img width="350" alt="Extension Popup" src="https://github.com/user-attachments/assets/ca8b8fdc-4e37-4cac-9045-8abcbc448971" />
+
+---
+
+**2️⃣ Console Log:**  
+Confirms the keep-alive script is running by logging simulated mouse events.
+
+<img width="551" alt="Console log showing mouse events" src="https://github.com/user-attachments/assets/0c406e4a-8ed3-479c-a4b2-467a002f8ab1" />
+
+---
