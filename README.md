@@ -15,13 +15,19 @@ A lightweight Chrome extension to keep Google Colab notebooks alive by simulatin
 # Why use this extension?
 Google Colab notebooks automatically disconnect or go idle after a period of inactivity — especially if your code takes a long time to run (e.g., training ML models, running multiple epochs, etc.).
 This can interrupt your work and:
+
   ->Stop long-running scripts before they finish
+
   ->Waste time restarting sessions or re-running cells
+  
   ->Interrupt ML training, data preprocessing, or any task that requires continuous execution
 
 ### This extension solves that problem by:
+
 -> Automatically simulating small user activity (like moving the mouse) every minute
+
 -> Keeping your Colab runtime session alive and preventing it from auto-disconnecting
+
 -> Allowing you to control this easily via a simple Start/Stop popup
 
 # Installation (Developer Mode)
